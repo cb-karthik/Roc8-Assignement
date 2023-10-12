@@ -85,8 +85,7 @@ body {
 }
 
 .blc_p {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 25px;
 }
 .body_right_comp {
   width: 45%;
@@ -233,13 +232,6 @@ input[type="password"] {
   .header {
     max-width: 100%;
     flex-direction: column;
-    align-items: start;
-  }
-
-  .header_items {
-    margin: 0;
-    padding: 0;
-   
   }
 
   .header_items > li {
@@ -251,7 +243,7 @@ input[type="password"] {
 
   .body_components {
     flex-direction: column;
-    gap: 30px;
+    gap: 10px;
   }
 
   .body_left_comp,
@@ -274,12 +266,12 @@ input[type="password"] {
 /* for Medium screen Styles */
 @media only screen and (min-width: 769px)  {
   body {
-     max-width: 889px;
-    height: auto;
+     max-width: 890px;
+    height: 890;
   }
 
   .header_items > li {
-    margin-right: 15px;
+    margin-right: 40px;
   }
 
   .body_left_comp,
