@@ -11,9 +11,8 @@ Laptop view
 
 Mobile view
 <div align="center">
-  ![2](https://github.com/cb-karthik/Roc8-Assignement/assets/115692390/3cba8d19-e824-4036-9471-54ed8edb2330)
-
-</div>
+  ![2  Mobile view@ browser](https://github.com/cb-karthik/Roc8-Assignement/assets/115692390/388dcec3-1c36-4c67-9fff-91a7d4737cc1)
+ </div>
 
 iPad view
 <div align="center">
